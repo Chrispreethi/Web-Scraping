@@ -1,2 +1,2 @@
 # Web-Scraping
-Codes used to scrape the data from different websites
+Code used to scrape the data from Wikipedia infobox
